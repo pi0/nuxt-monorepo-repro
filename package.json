@@ -1,10 +1,10 @@
 {
+  "name": "monorepo",
   "private": true,
   "workspaces": {
     "packages": [
-      "nuxt-app"
+      "app"
     ]
   },
-  "name": "nuxt-monorepo",
   "packageManager": "yarn@3.2.0"
 }
